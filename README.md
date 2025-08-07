@@ -4,6 +4,7 @@ A powerful ComfyUI custom node that allows dynamic batching of multiple images w
 
 ![Dynamic Image Batch Demo](https://img.shields.io/badge/ComfyUI-Custom%20Node-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+<img width="601" height="532" alt="Screenshot 2025-08-07 at 18 43 44" src="https://github.com/user-attachments/assets/9b128b4b-34c1-476f-a924-73c996866c07" />
 
 ## Features
 
